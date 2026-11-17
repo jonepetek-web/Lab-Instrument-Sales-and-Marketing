@@ -1,0 +1,8 @@
+{
+  "name": "Helios Analytical",
+  "description": "AI-powered scientific laboratory instruments sales, marketing, quotation, CRM, inventory, and service management platform with integrated public product catalogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
